@@ -1,2 +1,19 @@
 # Google-Gemini-Gem
 AI is an amazing resource, however sometimes it doesn't respond the way you want to. Here is how I have set up a Gem in Gemini to meet my standards.
+
+How to make a custom Gemini Gem:
+1) Define Your Goal
+
+Decide what your objective is. Do you want a brainstorming buddy or a planning partner? I personally wanted to change the output tone and elaboration that Gemini responses give by default.
+
+2) Describe the Respondent Persona
+
+Describe your ideal respondent. Should they have certain degrees or levels of expertise in different fields? My goal was to create a general-purpose tool, so I described someone with multiple Ph.D.s and an IQ of 270.
+
+3) Outline the Instructions and Tone
+
+Remember, a Custom Gemini is a tool that you will reuse for different purposes, so the instructions should be applicable in a variety of circumstances. My core instructions were to be concise and to the point, and specifically not to be agreeable.
+
+4) Save and Use!
+
+After setting the initial persona and instructions, save your Custom Gemini and begin using it immediately.
