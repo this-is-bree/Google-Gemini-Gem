@@ -1,9 +1,3 @@
-This is a perfect candidate for the same structured treatment. We will take your core points—defining the goal, setting the persona, and strict instruction adherence—and expand them into a technical workflow that feels like a "Developer's Guide."
-
-Here is the updated, detailed version formatted for GitHub or a documentation wiki.
-
-***
-
 # 💎 Architecting Your AI: The Ultimate Guide to Building Custom Gemini Gems
 
 **Google Gemini** is an incredible generalist, but sometimes you need a specialist. You don't always want a polite assistant; sometimes you need a ruthless editor, a senior architect, or a brainstorming partner who challenges your assumptions.
